@@ -16,19 +16,19 @@ I am passionate about **sharing my knowledge and experience with the tech commun
 ## Skill Set
 
 <p align="left">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/swift.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/nodejs-original.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/deno-original.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/graphql.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/mongodb-original.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/javascript-plain.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/css3-original.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/sass-original.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/html5-original.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/bootstrap-plain.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/visualstudio-plain.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/redux-original.svg" height="auto" width="40">
-<img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/git-original.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/swift.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/nodejs-original.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/deno-original.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/graphql.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/mongodb-original.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/javascript-plain.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/css3-original.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/sass-original.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/html5-original.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/redux-original.svg" height="auto" width="40">
+<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/git-original.svg" height="auto" width="40">
 </p>
 
 ### :technologist: Currently Working On
@@ -68,8 +68,8 @@ I am passionate about **sharing my knowledge and experience with the tech commun
 * 🎉 Impacted 9000+ students through tech sessions and live hands-on coding in open source and new technologies.
 
 <p align="center">
-<a href= "https://www.linkedin.com/feed/update/urn:li:activity:6716621022201831424/"><img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/GIRLSCRIPT.TECH.png" height="100" width="100"/></a>
-<a href= "https://www.linkedin.com/posts/girlscriptcup_gs-cup-family-category-winners-activity-6708749500657283072-EZfP/"><img src="https://github.com/geekyamitesh/geekyamitesh/blob/main/images/gscup-min.png" height="100" width="100"/></a>
+<a href= "https://www.linkedin.com/feed/update/urn:li:activity:6716621022201831424/"><img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/GIRLSCRIPT.TECH.png" height="100" width="100"/></a>
+<a href= "https://www.linkedin.com/posts/girlscriptcup_gs-cup-family-category-winners-activity-6708749500657283072-EZfP/"><img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/gscup-min.png" height="100" width="100"/></a>
 </details>
 
 <details>
@@ -84,7 +84,7 @@ I am passionate about **sharing my knowledge and experience with the tech commun
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/geekyamitesh"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://github.com/swiftwithamitesh"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/geekyamitesh/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/geekyamitesh03"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://geekyamitesh.github.io/amitesh/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
