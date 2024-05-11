@@ -18,8 +18,6 @@ I am passionate about **sharing my knowledge and experience with the tech commun
 <p align="left">
 <img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/swift.svg" height="auto" width="40">
 <img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/nodejs-original.svg" height="auto" width="40">
-<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/deno-original.svg" height="auto" width="40">
-<img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/graphql.svg" height="auto" width="40">
 <img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/mongodb-original.svg" height="auto" width="40">
 <img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/javascript-plain.svg" height="auto" width="40">
 <img src="https://github.com/swiftwithamitesh/swiftwithamitesh/blob/main/images/css3-original.svg" height="auto" width="40">
