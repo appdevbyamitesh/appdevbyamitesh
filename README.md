@@ -91,6 +91,6 @@ I am passionate about **sharing my knowledge and experience with the tech commun
 </p>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=geekyamitesh.geekyamitesh" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=swiftwithamitesh.swiftwithamitesh" alt="visitor badge"/>       
 </p>
 </p>
