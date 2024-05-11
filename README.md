@@ -53,7 +53,7 @@ I am passionate about **sharing my knowledge and experience with the tech commun
 <summary>GeekyAmitesh's GitHub Stats</summary>
 <p align="center">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=geekyamitesh"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=swiftwithamitesh"/>
   </a>
 </p>
 </details>
