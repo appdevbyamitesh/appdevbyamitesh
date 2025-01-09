@@ -5,7 +5,7 @@
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/geekyamitesh/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amiteshmanitiwari1997@gmail.com)](mailto:amiteshmanitiwari1997@gmail.com)
 
 ![iOS Developer](https://img.shields.io/badge/iOS_Developer-2%20years%20exp-blueviolet?style=flat&logo=swift&logoColor=white)
-![Software Development Engineer](https://img.shields.io/badge/Software_Development_Engineer_(iOS_Team)-Upstox-informational?style=flat&logo=apple&logoColor=white)
+![Software Development Engineer](https://img.shields.io/badge/Software_Development_Engineer_(iOS_Team)-Angeone-informational?style=flat&logo=apple&logoColor=white)
 
 I am a Software Development Engineer with 2 years of experience in iOS development, currently working at [Upstox](https://upstox.com/). I specialize in building scalable and reliable iOS applications using Swift, SwiftUI, Realm Database, and MVVM architecture.
 
