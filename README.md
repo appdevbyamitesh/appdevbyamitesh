@@ -7,7 +7,7 @@
 ![iOS Developer](https://img.shields.io/badge/iOS_Developer-2%20years%20exp-blueviolet?style=flat&logo=swift&logoColor=white)
 ![Software Development Engineer](https://img.shields.io/badge/Software_Development_Engineer_(iOS_Team)-Angelone-informational?style=flat&logo=apple&logoColor=white)
 
-I am a Software Development Engineer with 2 years of experience in iOS development, currently working at [Upstox](https://upstox.com/). I specialize in building scalable and reliable iOS applications using Swift, SwiftUI, Realm Database, and MVVM architecture.
+I am a Software Development Engineer with 2 years of experience in iOS development, currently working at [Angelone](https://www.angelone.in/). I specialize in building scalable and reliable iOS applications using Swift, SwiftUI, Realm Database, and MVVM architecture.
 
 ## Passion for Community Engagement
 
