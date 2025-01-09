@@ -32,7 +32,7 @@ I am passionate about **sharing my knowledge and experience with the tech commun
 ### :technologist: Currently Working On
 
 - Improving my skills in Swift, SwiftUI, and iOS development
-- Developing and maintaining scalable iOS applications at [Upstox](https://upstox.com/)
+- Developing and maintaining scalable iOS applications at [Angelone](https://www.angelone.in/) and ex [Upstox](https://upstox.com/)
 - Learning backend development with Node.js and Deno, along with GraphQL
 
 ### :nerd_face: Currently Learning
